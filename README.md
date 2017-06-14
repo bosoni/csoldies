@@ -1,2 +1,1 @@
-# csoldies
-old cs tests
+some old C# tests
